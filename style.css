@@ -13,7 +13,7 @@ body {
     align-items: center;
     height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgb(63, 0, 0), rgb(253, 3, 57), rgb(104, 34, 2));
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(1, 10, 139), rgb(1, 0, 8));
     background-size: 500% 100%;
 }
 
